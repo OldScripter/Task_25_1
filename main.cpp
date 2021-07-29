@@ -10,7 +10,7 @@ int main() {
     Point point_1 = Point(0, 0);
     Point point_2 = Point(0, 0);
     std::string cmd;
-    
+
     do
     {
         std::cout << "Please enter the command: ";

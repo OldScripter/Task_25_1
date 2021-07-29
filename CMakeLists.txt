@@ -3,4 +3,4 @@ project(Task_25_1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Task_25_1 main.cpp surgery.h)
+add_executable(Task_25_1 main.cpp)
